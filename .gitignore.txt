@@ -1,0 +1,3 @@
+.cache/
+.docker/
+.bash_history
